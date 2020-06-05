@@ -5,5 +5,6 @@ public class TestGit {
 		System.out.println("最开始的版本");
 		System.out.println("我添加了方法你要先更新才能用");
 		System.out.println("从GitHub拿到的版本");
+		System.out.println("第二次上传到GitHub");
 	}
 }
